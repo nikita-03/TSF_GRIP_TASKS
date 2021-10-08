@@ -6,3 +6,6 @@ The Sparks Foundation Internship Problems :
    
 2] Prediction using Unsupervised ML: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.</br>
    Dataset : https://bit.ly/3kXTdox
+
+3] Exploratory Data Analysis - Retail : What all business problems you can derive by exploring the data?</br>
+   Dataset : https://bit.ly/3i4rbWl
